@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>1365338689</fileChecksum>
+    <configuration>
+        <name>STM32G431CBU6</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\Core\Src\stm32g4xx_hal_msp.c</file>
+            <file>$PROJ_DIR$\..\Core\Src\main.c</file>
+            <file>$PROJ_DIR$\..\Core\Src\stm32g4xx_hal_timebase_tim.c</file>
+            <file>$PROJ_DIR$\..\USB_Device\App\usb_device.c</file>
+            <file>$PROJ_DIR$\..\Core\Src\app_freertos.c</file>
+            <file>$PROJ_DIR$\..\Core\Src\stm32g4xx_it.c</file>
+            <file>$PROJ_DIR$\..\USB_Device\App\usbd_desc.c</file>
+            <file>$PROJ_DIR$\..\USB_Device\App\usbd_cdc_if.c</file>
+            <file>$PROJ_DIR$\..\USB_Device\Target\usbd_conf.c</file>
+            <file>$PROJ_DIR$\..\Core\Inc\main.h</file>
+            <file>$PROJ_DIR$\..\RTT\SEGGER_RTT_Conf.h</file>
+            <file>$PROJ_DIR$\..\RTT\SEGGER_RTT.h</file>
+            <file>$PROJ_DIR$\..\RTT\SEGGER_RTT.c</file>
+            <file>$PROJ_DIR$\..\RTT\SEGGER_RTT_printf.c</file>
+        </outputs>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>
